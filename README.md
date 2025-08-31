@@ -48,3 +48,7 @@ Use a SQL client to execute the Netflix_Schemas.sql script to create the netflix
 Import the data from the Netflix_data.csv file into your newly created table.
 
 Run the queries in the Solutions_to_Netflix_Business_Problems.sql file to see the results of the analysis in action.a real-world dataset.
+
+## Author - Ayush M Singh
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
