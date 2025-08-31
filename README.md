@@ -1,3 +1,4 @@
+https://github.com/AYUSHMSINGH2004/Netflix-Data-Analysis/blob/main/Netflix%20logo.png?raw=true
 # Netflix Data Analysis with SQL
 
 # Project Overview :
