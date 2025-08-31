@@ -1,12 +1,11 @@
-https://github.com/AYUSHMSINGH2004/Netflix-Data-Analysis/blob/main/Netflix%20logo.png?raw=true
 # Netflix Data Analysis with SQL
 
-# Project Overview :
-
-This project provides an in-depth analysis of Netflix content data using SQL. The primary goal is to solve a series of business-related questions by writing efficient and well-structured SQL queries. The analysis covers various aspects of the Netflix catalog, including content types, ratings, country-wise distribution, and director/actor trends.
-
 # 🚀 Project Overview
-Welcome to the Netflix Data Analysis project! This repository is dedicated to a comprehensive exploration of Netflix's content library using the power of SQL. By transforming raw data into actionable insights, this project uncovers key trends in content distribution, audience preferences, and production details. It's a hands-on guide for anyone looking to master data analysis with SQL.
+Welcome to the Netflix Data Analysis project! This repository is dedicated to a comprehensive exploration of Netflix's content library using the power of SQL. By transforming raw data into actionable insights, this project uncovers key trends in content distribution, audience preferences, and production details. It's a hands-on guide for anyone looking to master data analysis with SQL.This project provides an in-depth analysis of Netflix content data using SQL. The primary goal is to solve a series of business-related questions by writing efficient and well-structured SQL queries. The analysis covers various aspects of the Netflix catalog, including content types, ratings, country-wise distribution, and director/actor trends.
+
+# Dataset
+The data for this project is sourced from the Kaggle dataset:
+Dataset Link: [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 # 📂 Repository Files
 Each file in this project plays a critical role in the analysis workflow:
